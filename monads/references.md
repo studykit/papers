@@ -1,0 +1,6 @@
+- [YOW! 2013 Philip Wadler - The First Monad Tutorial](https://www.youtube.com/watch?v=yjmKMhJOJos&t=83s)
+- [All About Monads](https://wiki.haskell.org/All_About_Monads)
+- [Monad Tutorials Timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
+- [Monads Explained in C# Aging](https://mikhail.io/2018/07/monads-explained-in-csharp-again/)
+- https://wiki.haskell.org/Books
+- https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html#monads
