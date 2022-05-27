@@ -1,0 +1,11 @@
+*.pdf
+_build/
+.fake
+.ionide
+*.class
+*.vo
+*.vok
+*.vos
+node_modules/
+out/
+.DS_Store
